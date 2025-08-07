@@ -1,11 +1,6 @@
 
 #  📊 Análise Exploratória de Dados do Airbnb - Barcelona 🏙️
 
-
-<p align="center">
-  <img alt="Analisando Airbnb" width="35%" src="https://raw.githubusercontent.com/gabrielcapela/Airbnb_Barcelona/main/airbnb.jpg">
-</p>
-
 ## 🧠 Sobre o Projeto
 Este projeto tem como objetivo realizar uma análise exploratória de dados (EDA) sobre os imóveis disponíveis no Airbnb em Barcelona. A partir de dados públicos da plataforma, buscou-se extrair informações úteis que ajudem a entender melhor o mercado de hospedagem da cidade.
 
